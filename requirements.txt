@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+gpt4all
